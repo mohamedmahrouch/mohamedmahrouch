@@ -1,3 +1,6 @@
+
+ 
+ <div align="center">
  <h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1643514393/5916/sparkles_1f387.gif?1643514393" width="28"/>
   Mohamed Mahrouch
@@ -135,5 +138,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mohamedmahrouch&icon=0&color=0)](https://visitcount.itsvg.in)
-
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
