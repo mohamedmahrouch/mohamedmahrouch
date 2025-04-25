@@ -1,62 +1,121 @@
-<h1 align="center">👋 Hello, I'm Mohamed Mahrouch</h1>
-<h3 align="center">⚡ Computer Engineering Student | AI & Full-Stack Enthusiast</h3>
+<h1 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1643514393/5916/sparkles_1f387.gif?1643514393" width="28"/>
+  Mohamed Mahrouch
+  <img src="https://emojis.slackmojis.com/emojis/images/1643514393/5916/sparkles_1f387.gif?1643514393" width="28"/>
+</h1>
+
+<h3 align="center">⚡ Computer Engineering Student | Full-Stack Developer & AI Explorer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-mahrouch" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:mohamedmahrouch551@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Turning+coffee+into+code+%F0%9F%8D%B5;Full-Stack+Developer+%7C+AI+Enthusiast;Always+learning+new+tech+%F0%9F%93%9A" alt="Typing SVG">
+</div>
+
+---
+
+### 🛠️ Tech Stack
+
+#### **Programming Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+
+#### **Frontend Development**
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
+
+#### **Backend Development**
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+
+#### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+
+#### **DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+
+---
+
+### 📈 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&langs_count=8"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak">
 </p>
 
 ---
 
-### 🚀 **About Me**
+### 🔥 Recent Projects
 
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Project 1](https://github.com/YOUR_USERNAME/PROJECT_1) | AI-powered recommendation system | Python, TensorFlow, Flask |
+| [Project 2](https://github.com/YOUR_USERNAME/PROJECT_2) | E-commerce platform | React, Node.js, MongoDB |
+| [Project 3](https://github.com/YOUR_USERNAME/PROJECT_3) | Real-time chat application | Socket.io, Express, React |
 
-🛠 Tech Stack
-Programming
-Python
-Java
-C++
-JavaScript
+---
 
-Web Development
-Next.js
-Spring Boot
-Node.js
-Angular
+### 📚 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [How to Build a Scalable Microservice Architecture](https://your-blog.com/post1)
+- [Introduction to Machine Learning with Python](https://your-blog.com/post2)
+<!-- BLOG-POST-LIST:END -->
 
-Data Science
-Pandas
-NumPy
-Scikit-learn
+---
 
-Databases
-MySQL
-MongoDB
+### 📫 Let's Connect!
+<p align="center">
+  <a href="mailto:mohamedmahrouch551@gmail.com">
+    <img src="https://img.icons8.com/color/96/000000/gmail.png" width="50">
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-mahrouch">
+    <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="50">
+  </a>
+  <a href="https://twitter.com/your_twitter">
+    <img src="https://img.icons8.com/color/96/000000/twitter.png" width="50">
+  </a>
+</p>
 
-Tools
-Docker
-Git
-VS Code
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square" alt="Profile Views">
+</p>
 
+<div align="center">
+  
+  ![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 
 
 
 
 
-🤖 Deep Learning & NLP Projects
-☁️ Cloud Architecture Design (AWS/GCP)
-📊 Building Data Pipeline Solutions
-🚀 Optimizing Full-Stack Applications
 
 
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak"> </p>
 
 
 
@@ -103,19 +162,6 @@ VS Code
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-# 💫 About Me:
-👋 Salut, je suis **Mohamed Mahrouch**<br>---<br><br> 💻 **Profil**  <br>- 🎓 élève-ingénieur de Génie Informatique à la **FST Errachidia** (Maroc).  <br>- 🔍Je suis passionné par la découverte d'informations et l'utilisation de la technologie pour résoudre des problèmes concrets. Je souhaite nouer des contacts avec des personnes partageant les mêmes idées afin de partager et de progresser professionnellement et personnellement.<br>- 🚀 Passionné par la transformation de problèmes complexes en solutions élégantes.  <br><br>---<br><br>### 🛠️ **Compétences Techniques**  <br>**Langages** :  <br>`Python` `Java` `C/C++` `Golang` `C#` `JavaScript/TypeScript` `SQL`  <br><br>**Data & IA** :  <br>`NumPy` `Pandas` `Scikit-learn` `Matplotlib`  <br>*Machine Learning* : Régression, Classification, Clustering  <br><br>**Développement Web** :  <br>`NestJS` `Next.js` `HTML/CSS` `PHP` `Tailwind CSS`  `angular `.net` `Springboot` `vuejs` `Bootstrap`  <br><br><br>**Bases de données** :  <br>`MySQL` `PostgreSQL` `MongoDB` `Oracle`  <br><br>**Outils** :  <br>`Docker` `Postman` `Git` `VS Code` `Jupyter` `Microsoft Project`  `Docker` `eclipse` `visual studio` `intellij` `vmware` <br><br>---<br><br>### 🌱 **En apprentissage actuel**  <br>- Techniques avancées d'IA/ML (Deep Learning, NLP).  <br>- Plateformes Cloud (AWS/GCP).  <br>- Pratiques DevOps avec Docker.  <br><br>---<br><br><br><br>### 📫 **Contact**  <br>- 📧 E-mail : mohamedmahrouch551@gmail.com<br>- 💼 LinkedIn : www.linkedin.com/in/mohamed-mahrouch<br><br><br>---<br><br>
 
 
 ## 🌐 Socials:
