@@ -1,3 +1,119 @@
+<h1 align="center">👋 Hello, I'm Mohamed Mahrouch</h1>
+<h3 align="center">⚡ Computer Engineering Student | AI & Full-Stack Enthusiast</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-mahrouch" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:mohamedmahrouch551@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
+
+---
+
+### 🚀 **About Me**
+
+
+🛠 Tech Stack
+Programming
+Python
+Java
+C++
+JavaScript
+
+Web Development
+Next.js
+Spring Boot
+Node.js
+Angular
+
+Data Science
+Pandas
+NumPy
+Scikit-learn
+
+Databases
+MySQL
+MongoDB
+
+Tools
+Docker
+Git
+VS Code
+
+
+
+
+
+
+
+🤖 Deep Learning & NLP Projects
+☁️ Cloud Architecture Design (AWS/GCP)
+📊 Building Data Pipeline Solutions
+🚀 Optimizing Full-Stack Applications
+
+
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak"> </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 💫 About Me:
 👋 Salut, je suis **Mohamed Mahrouch**<br>---<br><br> 💻 **Profil**  <br>- 🎓 élève-ingénieur de Génie Informatique à la **FST Errachidia** (Maroc).  <br>- 🔍Je suis passionné par la découverte d'informations et l'utilisation de la technologie pour résoudre des problèmes concrets. Je souhaite nouer des contacts avec des personnes partageant les mêmes idées afin de partager et de progresser professionnellement et personnellement.<br>- 🚀 Passionné par la transformation de problèmes complexes en solutions élégantes.  <br><br>---<br><br>### 🛠️ **Compétences Techniques**  <br>**Langages** :  <br>`Python` `Java` `C/C++` `Golang` `C#` `JavaScript/TypeScript` `SQL`  <br><br>**Data & IA** :  <br>`NumPy` `Pandas` `Scikit-learn` `Matplotlib`  <br>*Machine Learning* : Régression, Classification, Clustering  <br><br>**Développement Web** :  <br>`NestJS` `Next.js` `HTML/CSS` `PHP` `Tailwind CSS`  `angular `.net` `Springboot` `vuejs` `Bootstrap`  <br><br><br>**Bases de données** :  <br>`MySQL` `PostgreSQL` `MongoDB` `Oracle`  <br><br>**Outils** :  <br>`Docker` `Postman` `Git` `VS Code` `Jupyter` `Microsoft Project`  `Docker` `eclipse` `visual studio` `intellij` `vmware` <br><br>---<br><br>### 🌱 **En apprentissage actuel**  <br>- Techniques avancées d'IA/ML (Deep Learning, NLP).  <br>- Plateformes Cloud (AWS/GCP).  <br>- Pratiques DevOps avec Docker.  <br><br>---<br><br><br><br>### 📫 **Contact**  <br>- 📧 E-mail : mohamedmahrouch551@gmail.com<br>- 💼 LinkedIn : www.linkedin.com/in/mohamed-mahrouch<br><br><br>---<br><br>
 
