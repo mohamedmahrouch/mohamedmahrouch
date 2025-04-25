@@ -16,19 +16,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Turning+coffee+into+code+%F0%9F%8D%B5;Full-Stack+Developer+%7C+AI+Enthusiast;Always+learning+new+tech+%F0%9F%93%9A" alt="Typing SVG">
 </div>
 
-### 📈 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedmahrouch&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmahrouch&layout=compact&theme=radical&langs_count=8"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedmahrouch&theme=radical" alt="GitHub Streak">
-</p>
-
 ---
-
 # 💻 Tech Stack
 
 ### Programming Languages
@@ -80,6 +68,21 @@
 ![UML](https://img.shields.io/badge/UML-FF6F00?style=for-the-badge&logo=uml&logoColor=white)
 ![Merise](https://img.shields.io/badge/Merise-000000?style=for-the-badge&logo=bookstack&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-%23FF6F00.svg?style=for-the-badge&logo=agile&logoColor=white)
+---
+### 📈 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedmahrouch&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmahrouch&layout=compact&theme=radical&langs_count=8"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedmahrouch&theme=radical" alt="GitHub Streak">
+</p>
+
+---
+
+
 
 ---
 
