@@ -7,15 +7,16 @@
 ---
 
 
-# 📄 Télécharger mon CV
+lorsque il clique : affiché au utilisateur que le cv est en train de télécharment : # ✨ CV Download :
 
 <div align="center">
-  <a href="https://drive.google.com/uc?export=download&id=1yWw9inJpYEieW0G6lZAatKc1_98ELIAh" target="_blank" onclick="this.innerHTML='<h3>📥 Téléchargement en cours...</h3><img src=\'https://media.giphy.com/media/3o7bu3XilJ5BOepQG4/giphy.gif\' width=120><br><small>Merci de patienter</small>'">
-    <img src="https://img.shields.io/badge/-TÉLÉCHARGER_LE_CV-0077B5?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+  <a href="https://drive.google.com/uc?export=download&id=1yWw9inJpYEieW0G6lZAatKc1_98ELIAh">
+    <img src="https://cdn-0.askleo.com/wp-content/uploads/2013/12/download.jpg?ezimgfmt=rs:250x191/rscb1/ngcb1/notWebP" width="200">
     <br>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=44A6F7&width=300&lines=Cliquez+ici+pour+télécharger;Fichier+PDF+⚡" alt="Instruction">
+    Attend 'sil vous plait 
   </a>
 </div>
+
 ---
 
 
