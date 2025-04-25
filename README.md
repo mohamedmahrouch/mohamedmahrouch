@@ -1,3 +1,27 @@
+<!-- Ajoutez ceci dans votre section GitHub Stats -->
+<a href="https://app.daily.dev/YOUR_DEV_PROFILE">
+  <img 
+    src="https://api.daily.dev/devcards/[VOTRE_ID_DEV].png?r=123" 
+    width="250"
+    alt="Mohamed Mahrouch's Dev Card"
+    align="right"
+  />
+</a>
+
+<!-- Activité GitHub dynamique -->
+![](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/metrics/github-metrics.svg)
+
+<!-- Stack Technique sous forme de nuage de mots -->
+<img 
+  src="https://skillicons.dev/icons?i=py,java,cs,go,cpp,js,ts,react,angular,aws,docker,git,mongodb,mysql,postgres&perline=8" 
+  alt="Tech Stack Cloud"
+/>
+
+
+
+
+
+
 <h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1643514393/5916/sparkles_1f387.gif?1643514393" width="28"/>
   Mohamed Mahrouch
