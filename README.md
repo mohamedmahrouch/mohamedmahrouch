@@ -7,16 +7,15 @@
 ---
 
 
-# ✨ CV Download Animation
+# ✨ Télécharger mon CV
 
 <div align="center">
-  <a href="https://drive.google.com/uc?export=download&id=1yWw9inJpYEieW0G6lZAatKc1_98ELIAh">
-    <img src="https://cdn-0.askleo.com/wp-content/uploads/2013/12/download.jpg?ezimgfmt=rs:250x191/rscb1/ngcb1/notWebP" width="200">
+  <a href="https://drive.google.com/uc?export=download&id=1yWw9inJpYEieW0G6lZAatKc1_98ELIAh" target="_blank">
+    <img src="https://i.pinimg.com/originals/7d/9a/3d/7d9a3d55a9d6f7c0b2a6712370c1c98a.gif" width="150" alt="Loading animation">
     <br>
-    Attend 'sil vous plait 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=44A6F7&width=300&height=25&lines=T%C3%A9l%C3%A9chargement+en+cours+⏳;Merci+de+patienter+...+🙏" alt="Download status">
   </a>
 </div>
-
 ---
 
 
