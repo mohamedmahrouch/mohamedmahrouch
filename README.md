@@ -7,13 +7,13 @@
 ---
 
 
-# ✨ Télécharger mon CV
+# 📄 Télécharger mon CV
 
 <div align="center">
-  <a href="https://drive.google.com/uc?export=download&id=1yWw9inJpYEieW0G6lZAatKc1_98ELIAh" target="_blank">
-    <img src="https://i.pinimg.com/originals/7d/9a/3d/7d9a3d55a9d6f7c0b2a6712370c1c98a.gif" width="150" alt="Loading animation">
+  <a href="https://drive.google.com/uc?export=download&id=1yWw9inJpYEieW0G6lZAatKc1_98ELIAh" target="_blank" onclick="this.innerHTML='<h3>📥 Téléchargement en cours...</h3><img src=\'https://media.giphy.com/media/3o7bu3XilJ5BOepQG4/giphy.gif\' width=120><br><small>Merci de patienter</small>'">
+    <img src="https://img.shields.io/badge/-TÉLÉCHARGER_LE_CV-0077B5?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
     <br>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=44A6F7&width=300&height=25&lines=T%C3%A9l%C3%A9chargement+en+cours+⏳;Merci+de+patienter+...+🙏" alt="Download status">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=44A6F7&width=300&lines=Cliquez+ici+pour+télécharger;Fichier+PDF+⚡" alt="Instruction">
   </a>
 </div>
 ---
