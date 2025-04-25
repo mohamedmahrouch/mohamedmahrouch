@@ -9,15 +9,18 @@
 
 <h3 align="center">⚡ Computer Engineering Student | Full-Stack Developer & AI Explorer</h3>
 
+---
+# ✨ CV Download Animation
+
 <div align="center">
-  <a href="https://github.com/mohamedmahrouch/raw/main/CV.pdf">
-    <img src="https://media.giphy.com/media/3o7btT1T9qpQZWhNlK/giphy.gif" width="150">
+  <a href="https://drive.google.com/uc?export=download&id=1yWw9inJpYEieW0G6lZAatKc1_98ELIAh">
+    <img src="https://media4.giphy.com/media/XIqCQx02E1U9W/giphy.gif?cid=ecf05e47g2q4h6m5h3v9gj8xjyvxq9h7j6y5m6w9x6kjyz4s&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200">
     <br>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=230&height=30&lines=Download+my+CV+📄;Available+for+opportunities+🚀" alt="CV Animation">
-    <br>
-    <img src="https://img.shields.io/badge/-DOWNLOAD_CV-0077B5?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&logoWidth=30">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFD1&width=300&height=40&lines=Mohamed+Mahrouch+CV;Click+to+Download+📥">
   </a>
 </div>
+
+---
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Turning+coffee+into+code+%F0%9F%8D%B5;Full-Stack+Developer+%7C+AI+Enthusiast;Always+learning+new+tech+%F0%9F%93%9A" alt="Typing SVG">
