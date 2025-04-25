@@ -1,4 +1,4 @@
-<h1 align="center">
+ <h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1643514393/5916/sparkles_1f387.gif?1643514393" width="28"/>
   Mohamed Mahrouch
   <img src="https://emojis.slackmojis.com/emojis/images/1643514393/5916/sparkles_1f387.gif?1643514393" width="28"/>
@@ -18,8 +18,6 @@
 
 ---
 # 💻 Tech Stack
-
-<div align="center">
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -70,16 +68,13 @@
 ![UML](https://img.shields.io/badge/UML-FF6F00?style=for-the-badge&logo=uml&logoColor=white)
 ![Merise](https://img.shields.io/badge/Merise-000000?style=for-the-badge&logo=bookstack&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-%23FF6F00.svg?style=for-the-badge&logo=agile&logoColor=white)
-
-</div>
-
 ---
 ### 📈 GitHub Analytics
 
-<div align="center">
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedmahrouch&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmahrouch&layout=compact&theme=radical&langs_count=8"/>
-</div>
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedmahrouch&theme=radical" alt="GitHub Streak">
@@ -87,18 +82,20 @@
 
 ---
 
+
+
+---
+
 ### 📚 Latest Blog Posts
-<div align="center">
 <!-- BLOG-POST-LIST:START -->
 - [How to Build a Scalable Microservice Architecture](https://your-blog.com/post1)
 - [Introduction to Machine Learning with Python](https://your-blog.com/post2)
 <!-- BLOG-POST-LIST:END -->
-</div>
 
 ---
 
 ### 📫 Let's Connect!
-<div align="center">
+<p align="center">
   <a href="mailto:mohamedmahrouch551@gmail.com">
     <img src="https://img.icons8.com/color/96/000000/gmail.png" width="50">
   </a>
@@ -108,7 +105,7 @@
   <a href="https://twitter.com/your_twitter">
     <img src="https://img.icons8.com/color/96/000000/twitter.png" width="50">
   </a>
-</div>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohamedmahrouch&color=blueviolet&style=flat-square" alt="Profile Views">
@@ -117,3 +114,26 @@
 <div align="center">
   ![Snake animation](https://github.com/mohamedmahrouch/mohamedmahrouch/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/medma) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohamedmahrouch) 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mohamedmahrouch&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohamedmahrouch&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmahrouch&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mohamedmahrouch&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mohamedmahrouch&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=mohamedmahrouch&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
