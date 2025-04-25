@@ -3,7 +3,10 @@
   Mohamed Mahrouch
   <img src="https://emojis.slackmojis.com/emojis/images/1643514393/5916/sparkles_1f387.gif?1643514393" width="28"/>
 </h1>
+  
 ---
+
+
 # ✨ CV Download Animation
 
 <div align="center">
