@@ -1,4 +1,4 @@
-<div align="center"> <h1 align="center">
+<div align ="center "> <h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1643514393/5916/sparkles_1f387.gif?1643514393" width="28"/>
   Mohamed Mahrouch
   <img src="https://emojis.slackmojis.com/emojis/images/1643514393/5916/sparkles_1f387.gif?1643514393" width="28"/>
@@ -7,13 +7,11 @@
 <h3 align="center">⚡ Computer Engineering Student | Full-Stack Developer & AI Explorer</h3>
 
 <p align="center">
-
-    <a href="https://drive.google.com/uc?export=download&id=1yWw9inJpYEieW0G6lZAatKc1_98ELIAh">
-         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmxzVMb0jaSb3GSGNnKawc4kJhJ0JHDvYU3g&s" width="200">
+  <a href="https://github.com/mohamedmahrouch">
+    <img src="https://img.shields.io/badge/-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
----
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Turning+coffee+into+code+%F0%9F%8D%B5;Full-Stack+Developer+%7C+AI+Enthusiast;Always+learning+new+tech+%F0%9F%93%9A" alt="Typing SVG">
 </div>
@@ -138,5 +136,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mohamedmahrouch&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
