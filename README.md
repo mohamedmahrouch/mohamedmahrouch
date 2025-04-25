@@ -13,7 +13,7 @@
   <a href="https://drive.google.com/uc?export=download&id=1yWw9inJpYEieW0G6lZAatKc1_98ELIAh">
     <img src="https://cdn-0.askleo.com/wp-content/uploads/2013/12/download.jpg?ezimgfmt=rs:250x191/rscb1/ngcb1/notWebP" width="200">
     <br>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFD1&width=300&height=40&lines=Mohamed+Mahrouch+CV;Click+to+Download+📥">
+    Attend 'sil vous plait 
   </a>
 </div>
 
