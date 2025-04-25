@@ -13,7 +13,6 @@
     <a href="https://drive.google.com/uc?export=download&id=1yWw9inJpYEieW0G6lZAatKc1_98ELIAh">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmxzVMb0jaSb3GSGNnKawc4kJhJ0JHDvYU3g&s" width="200">
     <br>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFD1&width=300&height=40&lines=Mohamed+Mahrouch+CV;Click+to+Download+📥">
   </a>
 </p>
 
