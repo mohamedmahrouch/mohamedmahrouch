@@ -13,7 +13,7 @@
   <a href="https://drive.google.com/uc?export=download&id=1yWw9inJpYEieW0G6lZAatKc1_98ELIAh">
     <img src="https://cdn-0.askleo.com/wp-content/uploads/2013/12/download.jpg?ezimgfmt=rs:250x191/rscb1/ngcb1/notWebP" width="200">
     <br>
-   <p>Attend 'sil vous plait après le clique  ...</p> 
+   <p>Attend 'sil vous plait après le clique  !</p> 
   </a>
 </div>
 
