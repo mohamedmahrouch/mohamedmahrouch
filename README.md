@@ -9,14 +9,15 @@
 
 <h3 align="center">⚡ Computer Engineering Student | Full-Stack Developer & AI Explorer</h3>
 
-<p align="center">
-  <a href="https://github.com/mohamedmahrouch">
-    <img src="https://img.shields.io/badge/-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white">
+<div align="center">
+  <a href="https://github.com/mohamedmahrouch/raw/main/CV.pdf">
+    <img src="https://media.giphy.com/media/3o7btT1T9qpQZWhNlK/giphy.gif" width="150">
+    <br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=230&height=30&lines=Download+my+CV+📄;Available+for+opportunities+🚀" alt="CV Animation">
+    <br>
+    <img src="https://img.shields.io/badge/-DOWNLOAD_CV-0077B5?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&logoWidth=30">
   </a>
-<a href="https://drive.google.com/file/d/1yWw9inJpYEieW0G6lZAatKc1_98ELIAh/view">
-  <img src="https://img.shields.io/badge/-CV-0077B5?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
-</a>
-</p>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Turning+coffee+into+code+%F0%9F%8D%B5;Full-Stack+Developer+%7C+AI+Enthusiast;Always+learning+new+tech+%F0%9F%93%9A" alt="Typing SVG">
