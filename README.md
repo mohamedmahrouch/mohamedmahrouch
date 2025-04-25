@@ -13,9 +13,9 @@
   <a href="https://github.com/mohamedmahrouch">
     <img src="https://img.shields.io/badge/-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
- <a href="LINK_VERS_VOTRE_CV">
-    <img src="https://drive.google.com/file/d/1yWw9inJpYEieW0G6lZAatKc1_98ELIAh/view?usp=sharing&logo=adobeacrobatreader&logoColor=white">
-  </a>
+<a href="https://drive.google.com/file/d/1yWw9inJpYEieW0G6lZAatKc1_98ELIAh/view">
+  <img src="https://img.shields.io/badge/-CV-0077B5?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+</a>
 </p>
 
 <div align="center">
