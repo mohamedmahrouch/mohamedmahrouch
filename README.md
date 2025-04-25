@@ -7,12 +7,9 @@
 <h3 align="center">⚡ Computer Engineering Student | Full-Stack Developer & AI Explorer</h3>
 
 <p align="center">
-  <a href="https://github.com/mohamedmahrouch">
-    <img src="https://img.shields.io/badge/-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+
     <a href="https://drive.google.com/uc?export=download&id=1yWw9inJpYEieW0G6lZAatKc1_98ELIAh">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmxzVMb0jaSb3GSGNnKawc4kJhJ0JHDvYU3g&s" width="200">
-    <br>
+         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmxzVMb0jaSb3GSGNnKawc4kJhJ0JHDvYU3g&s" width="200">
   </a>
 </p>
 
